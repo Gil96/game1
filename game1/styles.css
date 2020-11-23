@@ -23,11 +23,12 @@ body {
   display: flex;
   flex-wrap: wrap;
   perspective: 1000px;
+  background-color: rgb(23, 16, 27);
 }
 
 .memory-card {
   width: calc(25% - 10px);
-  height: calc(33.333% - 10px);
+  height: calc(25% - 10px);
   margin: 5px;
   position: relative;
   transform: scale(1);
